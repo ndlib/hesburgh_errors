@@ -1,0 +1,9 @@
+.bundle/
+log/*.log
+pkg/
+server/db/*.sqlite3
+server/db/*.sqlite3-journal
+server/log/*.log
+server/tmp/
+server/.sass-cache
+vendor/bundle/*

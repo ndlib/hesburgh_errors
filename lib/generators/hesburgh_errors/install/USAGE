@@ -1,0 +1,10 @@
+Description:
+    Run this generator to install the hesburgh_errors gem
+
+Example:
+    rails generate hesburgh_errors:install all
+
+    This will create:
+        error_controller
+        adds routes
+
